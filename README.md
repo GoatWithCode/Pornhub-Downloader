@@ -16,4 +16,4 @@ The Application use ffmpeg download here: https://www.gyan.dev/ffmpeg/builds/ffm
   pyinstaller --onefile --windowed --icon=logo.ico pornhub_downloader.py
 
 
-<img src="https://github.com/GoatWithCode/Pornhub-Downloader/blob/main/Screenshot%202025-05-20%20170528.png" alt="Youtube-downloader" width="400" height="300">
+<img src="https://github.com/GoatWithCode/Pornhub-Downloader/blob/main/Screenshot%202025-05-20%20170528.png" alt="Youtube-downloader" width="300" height="500">
